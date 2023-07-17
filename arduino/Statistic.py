@@ -25,7 +25,7 @@ class Calculator:
 
     def calculateMedian(self, data):
         median = 0
-        median = np.median(self, data)
+        median = np.median(data)
         return median
 
     def calculateMode(self,data):
